@@ -1,6 +1,6 @@
 # Candidates from IceCube Follow-up
 
-##SNID 5430381
+## SNID 5430381
 
 ### Stamps
 
@@ -29,7 +29,7 @@
 
 Likely a CC SNe
 
-##SNID 5429924
+## SNID 5429924
 
 ### Stamps
 
@@ -56,7 +56,7 @@ Likely a CC SNe
 
 Likely AGN
 
-##SNID 332273
+## SNID 332273
 
 ### Stamps
 
@@ -93,7 +93,7 @@ Likely AGN
 
 Likely a QSO or AGN
 
-##SNID 332325
+## SNID 332325
 
 ### Stamps
 
@@ -118,7 +118,7 @@ Likely a QSO or AGN
 Likely CC SNe
 
 
-##SNID 332415
+## SNID 332415
 
 ### Stamps
 
@@ -157,7 +157,7 @@ Likely CC SNe
 
 Likely AGN
 
-##SNID 332416
+## SNID 332416
 
 ### Stamps
 
