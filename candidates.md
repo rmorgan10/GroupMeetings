@@ -4,12 +4,12 @@
 
 ### Stamps
 
-![](DESIC170922+01_stamp1.png)
-![](DESIC170922+01_stamp2.png)
+![](./images/DESIC170922+01_stamp1.png)
+![](./images/DESIC170922+01_stamp2.png)
 
 ### Light Curves
 
-![](../IC170922_dp802/output/classify_events/5430381_lc.png)
+![](./images/5430381_lc.png)
 
 ### Catalog Searches
 
@@ -27,18 +27,18 @@
 
 ### Classification
 
-Likely a CC SNe
+Likely a SN
 
 ## SNID 5429924
 
 ### Stamps
 
-![](5429924_stamp1.png)
-![](5429924_stamp2.png)
+![](./images/5429924_stamp1.png)
+![](./images/5429924_stamp2.png)
 
 ### Light Curves
 
-![](../IC170922_dp802/output/classify_events/5429924_lc.png)
+![](./images/5429924_lc.png)
 
 ### Catalog Searches
 
@@ -60,12 +60,12 @@ Likely AGN
 
 ### Stamps
 
-![](332273_stamp1.png)
-![](332273_stamp2.png)
+![](./images/332273_stamp1.png)
+![](./images/332273_stamp2.png)
 
 ### Light Curves
 
-![](../IC180103_dp806/output/classify_events/332273_lc.png)
+![](./images/332273_lc.png)
 
 ### Catalog Searches
 
@@ -97,12 +97,12 @@ Likely a QSO or AGN
 
 ### Stamps
 
-![](332325_stamp1.png)
-![](332325_stamp2.png)
+![](./images/332325_stamp1.png)
+![](./images/332325_stamp2.png)
 
 ### Light Curves
 
-![](../IC180103_dp806/output/classify_events/332325_lc.png)
+![](./images/332325_lc.png)
 
 ### Catalog Searches
 
@@ -115,19 +115,19 @@ Likely a QSO or AGN
 
 ### Classification
 
-Likely CC SNe
+Likely a SN
 
 
 ## SNID 332415
 
 ### Stamps
 
-![](332415_stamp1.png)
-![](332415_stamp2.png)
+![](./images/332415_stamp1.png)
+![](./images/332415_stamp2.png)
 
 ### Light Curves
 
-![](../IC180103_dp806/output/classify_events/332415_lc.png)
+![](./images/332415_lc.png)
 
 ### Catalog Searches
 
@@ -161,12 +161,12 @@ Likely AGN
 
 ### Stamps
 
-![](332416_stamp1.png)
-![](332416_stamp2.png)
+![](./images/332416_stamp1.png)
+![](./images/332416_stamp2.png)
 
 ### Light Curves
 
-![](../IC180103_dp806/output/classify_events/332416_lc.png)
+![](./images/332416_lc.png)
 
 ### Catalog Searches
 
@@ -199,4 +199,4 @@ Likely AGN
 
 ### Classification
 
-Likely CC SNe
+Likely a SN
